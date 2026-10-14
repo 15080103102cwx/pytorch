@@ -1,0 +1,4 @@
+# Protect the base image's Torch/TorchVision pair if a dependency requests them.
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
